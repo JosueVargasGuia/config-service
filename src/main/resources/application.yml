@@ -8,8 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/JosueVargasGuia/BootCamp.git
-          default-label: Dev-Josue
-          search-paths: /config-service-data
+          uri: https://github.com/JosueVargasGuia/config-service-data.git
+          default-label: Josue
+#          search-paths: /config-service-data
 #          username:
 #          password:
