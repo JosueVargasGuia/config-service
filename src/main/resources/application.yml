@@ -9,7 +9,7 @@ spring:
       server:
         git:
           uri: https://github.com/JosueVargasGuia/config-service-data.git
-          default-label: Josue
+          default-label: Jostin
 #          search-paths: /config-service-data
 #          username:
 #          password:
